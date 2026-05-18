@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Java em formação | Back-end | Front-end 
 
-```
+```js
 const rico = {
   pronouns: "ele | dele",
   code: ["Java", "MySQL"],
